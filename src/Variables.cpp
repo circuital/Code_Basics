@@ -6,11 +6,11 @@
 using namespace std;
 
 //1
-//int main()
-//{
-//	string name = "Elvira Granqvist";
-//	cout << name << "\n";
-//}
+/*int main()
+{
+	string name = "Elvira Granqvist";
+	cout << name << "\n";
+}*/
 
 //2
 //int main()
@@ -89,6 +89,7 @@ using namespace std;
 //}
 
 //8
+/*
 int main()
 {
 	int minutes, hours, totalMinutes;
@@ -98,5 +99,6 @@ int main()
 	minutes = totalMinutes % 60;
 	cout << "This equals " << hours << " hours and " << minutes << " minutes.\n";
 }
+*/
 
 

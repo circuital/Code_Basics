@@ -1,0 +1,3 @@
+/Users/elvirag/src/private/Code_Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elvirag/src/private/Code_Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elvirag/src/private/Code_Basics/cmake-build-debug/CMakeFiles/Code_Basics.dir
